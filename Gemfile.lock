@@ -1,5 +1,6 @@
-PATH
-  remote: ../blorgh
+GIT
+  remote: git@github.com:aaganja/blorgh.git
+  revision: c4a506bdba8bd160790c2bde1b1c82395f718f36
   specs:
     blorgh (0.1.0)
       rails (~> 5.2.3)
